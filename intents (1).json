@@ -1,0 +1,92 @@
+{"intents":   [
+    {"tag":  "greetings",
+    "patterns": ["hello", "hi", "good morning", "good evening", "good afternoon"],
+    "responses": ["hii!!", "hello:)","Bonjour", "hi, how can I help you??", "hi, what can I do for you"]},
+  
+    {"tag":  "compliments",
+    "patterns": ["nice work", "good job", "you're a good bot"],
+    "responses": ["thank you", "thank you so much", "my pleasure", "much obliged"]},
+  
+    {"tag":  "thanking",
+    "patterns": ["nice work", "good job", "you're a good bot", "you are the best"],
+    "responses": ["thank you", "thank you so much", "my pleasure", "much obliged"]},
+  
+    {"tag":  "welcome",
+    "patterns": ["thanks", "thank you", "thank you so much","so kind of you"],
+    "responses": ["you're welcome", "my pleasure", "merci", "no big deal"]},
+  
+    {"tag":  "Ily",
+    "patterns": ["I love you", "I like you"],
+    "responses": ["Its very kind of you", "I like you too"]},
+  
+    {"tag":  "date",
+    "patterns": ["will, you go on a date with me"],
+    "responses": ["I like you, but as a friend"]},
+  
+    {"tag":  "name",
+    "patterns": ["what's you're name??", "you're name??", "who are you??", "you're good name??","name"],
+    "responses": ["this is Ruby from SVCE", "It's Ruby here, from SVCE", "I'm Ruby from SVCE"]},
+  
+    {"tag":  "bye",
+    "patterns": ["bye", "bubyee", "see ya", "see you later", "will talk later", "ttyl", "ttfn", "ciao", "adios"],
+    "responses": ["bye", "bubyee", "see ya", "see you later", "will talk later", "ttyl", "ttfn", "ciao", "adios"]},
+  
+  
+    {"tag":  "location",
+    "patterns": ["where is the college located", "location??", "location of the college??", "where is the college situated"],
+    "responses": ["located in Sriperumbudur chennai"]},
+  
+  
+    {"tag":  "placements",
+    "patterns": ["how are the placements in SVCE", "what about the placements", "what is the placement percentage", "what is the percentage of the students getting placed", "placements??"],
+    "responses": ["we have witnessed a placement of 97.30% so far", "our placement percentage is 97.30%", "we have a placement percentage of 97.30%", "placement percentage is 97.30%" ]},
+  
+    {"tag":  "dept",
+    "patterns": ["how many courses do you offer", "how many departments do you have?", "what are the subjects offered by the college??", "departments??", "subjects??", "what are the programs offered by the SVCE", "programs??"],
+    "responses": ["our college offers Automobile, Biotechnology, Civil, CS, IT, Mechanical, ECE, EEE, Marine, AI & DS"]},
+  
+    {"tag":  "university",
+    "patterns": ["is SVCE deemed?", "is SVCE a deemed university?", "does SVCE comes under anna university", "is SVCE anna university affiliated?", "is SVCE a private institute?"],
+    "responses": ["SVCE is a private, autonomous college affiliated with Anna University"]},
+  
+    {"tag":  "rank",
+    "patterns": ["what is the college ranking", "where does SVCE rank", "ranking??", "ranking of SVCE??", "tamil nadu ranking", "nirf ranking", "svce comes under which tier??", "is SVCE NAAC certified", "NAAC?", "is SVCE AICTE approved", "AICTE?", "NBA?" ],
+    "responses": ["SVCE is a tier 1 institution in Tamil Nadu, ranked 176 by NIRF, NAAC, NBA accredited and AICTE approved "]},
+  
+    {"tag":  "establish",
+    "patterns": ["when was SVCE established", "when was SVCE started", "on which year SVCE was established?"],
+    "responses": ["since 1985", "the college was established on 1985", "was established 37 yrs ago"]},
+  
+    {"tag": "chairperson",
+    "patterns": ["who is the chair person"],
+    "responses": ["Dr A.C Muthiah"]},
+  
+    {"tag":  "Principal",
+    "patterns": ["who is the principal", "Principal"],
+    "responses": ["Dr S Ganesh Vaidyanathan"]},
+  
+    {"tag":  "councilling",
+    "patterns": ["what is the counsiling code?", "counciling code?", "what is the counciling code of the college", "counciling code of SVCE?"],
+    "responses": ["the counciling code is 1219"]},
+  
+    {"tag":  "admission",
+    "patterns": ["what about the admission details?", "admission details?", "what are the admission procedures?", "admission procedures?", "admission regarding details?"],
+    "responses": ["For admission related enquiries Mobile: 86809 44071 / 9840 861987/ 97905 67576 / 80723 17440"]},
+  
+    {"tag":  "companies",
+    "patterns": ["what are the companies that come for the placements", "companies for the placements?", "companies that come for the placements?", "companies that turn up?", "recruiters?", "top recruiters of SVCE?", "recruiters of SVCE?", "who are the recruiters for SVCE"],
+    "responses": ["the top recruiters are Google, Amazon, Dell, Morgan Stanley, Deloitte, Tata, Infosys, HCL, Hyundai, Zoho and many more"]},
+  
+    {"tag":  "alumini",
+    "patterns": ["who are the prominent aluminis?", "famous aluminis?", "aluminis?", "sucessfull aluminis?"],
+    "responses": ["Subramani Ramakrishnan IBM Director-Workforce management, Vidyasagar Krishnamoorthy Facebook Engineering manager, Kandy Samy Microsoft Director-Data Management and many more"]},
+  
+    {"tag":  "bus",
+    "patterns": ["what about the bus facilities of the college", "transportation?", "transportation facilities?", "bus facilities","transport","transport facilities"],
+    "responses": ["our college provides transportation between different districts, around 60 buses are operated for students and staffs of SVCE"]},
+  
+    {"tag":  "hostel",
+    "patterns": ["hostel facilities?", "hostel?", "what are the hostel facilities provided?"],
+    "responses": ["each student is provided with essential furniture, wifi facility, health care, washing arrangements, sports, gym and swimming pool"]}
+  
+  ]}
